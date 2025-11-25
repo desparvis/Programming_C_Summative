@@ -1,0 +1,13 @@
+HTTP/1.1 503 Service Temporarily Unavailable
+Server: awselb/2.0
+Date: Tue, 25 Nov 2025 13:06:05 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: close
+
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body>
+<center><h1>503 Service Temporarily Unavailable</h1></center>
+</body>
+</html>
