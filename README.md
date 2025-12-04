@@ -1,6 +1,6 @@
 # Programming C Summative Projects
 
-## Introduction
+# Introduction
 
 This repository contains Low-Level Programming Projects.<br> It contains five projects which are:<br>
 
@@ -10,29 +10,29 @@ This repository contains Low-Level Programming Projects.<br> It contains five pr
 **Dynamic Math and Data Processing Engine**<br>
 **Multi-threaded Web Scraper**<br>
 
-## How they work
+# How they work
 
-### Smart Traffic Control and Monitoring System
+## Smart Traffic Control and Monitoring System
 
 Traffic signal management which includes simulation of two intersections with 2 sets of 3 LED lights.
 The two intersections are adjusted to alternate well between each other.
 The system give output in the Serial Monitor as it is hard to log the values in a local file using Tinkercad.
 
-### Automated System Monitoring Shell Script
+## Automated System Monitoring Shell Script
 
 System monitoring project that uses CPU, memory, and disk information.
 It uses process management commands like top, df, free.
 It requires user input to function.
 It logs all system activity when auto monitor is activated.
 
-### Student Management System using Structures
+## Student Management System using Structures
 
 Student management system that let the user manage student information.
 Applies structures for easy student management.
 Does memory allocation.
 Applies searching, sorting, file handling, and function pointers.
 
-### Dynamic Math and Data Processing Engine
+## Dynamic Math and Data Processing Engine
 
 Dynamic math and data processing engine that allows users to add, delete, and update numbers.
 Display the input dataset.
@@ -41,14 +41,14 @@ Sort or search values.
 Save and load data from a file.
 It applies arrays, functions, loops, memory allocation, function pointers, file I/O, sorting, and searching.
 
-### Multi-threaded Web Scraper
+## Multi-threaded Web Scraper
 
 Multi-threaded web scraper that uses POSIX threads. It was made to download multiple web pages at the same time.
 The addresses for the web pages to be downloaded are found in the txt file.
 Multi-threading is implemented where each URL runs inside its own thread using pthread_create().
 The thread downloads the HTML content and saves it on a text file.
 
-## How to run
+# How to run
 
 Make sure you are on Linux, Mac, or WSL on windows.
 
